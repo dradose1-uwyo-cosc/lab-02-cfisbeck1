@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Connor Fisbeck]
+## [Lab02]
+## [09-18-24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Emmanuel (TA)
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* some of my changes didnt get captured by my first commit
+* renamed file in VS Code which messed it up

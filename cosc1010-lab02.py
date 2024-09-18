@@ -2,11 +2,9 @@
 # UWYO COSC 1010
 # Submission Date
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 10
+# help received from Emmanuel (TA)
+
 
 your_variable_here = "when you see this, replace it with your code"
 
